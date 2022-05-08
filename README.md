@@ -13,14 +13,14 @@ It's a boilerplate for React , with Typescript bundling along with working CSS m
 
 ## Dev Server ⏪️ ?
 ```shell
- npm run dev-server
+ npm run start
 ```
 
 ## Build 🏗️ ?
 
 ```shell
 #prod
-> npm run build-prod
+> npm run build
 
 ## minifies and uglifies everything. Wraps CSS inside Js
 #dev
